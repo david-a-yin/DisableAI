@@ -1,0 +1,13 @@
+{
+  "extensions": {
+    "recommendations": [],
+    "unwantedRecommendations": [
+      "GitHub.copilot",
+      "GitHub.copilot-chat",
+      "GitHub.copilot-nightly",
+      "GitHub.copilot-chat-nightly",
+      "Anthropic.claude",
+      "Anthropic.claude-chat"
+    ]
+  }
+}
